@@ -21,9 +21,11 @@ https://www.youtube.com/watch?v=TDN0_jrLhGs
 https://surfsplatting.github.io/
 https://www.youtube.com/watch?v=oaHCtB6yiKU
 
+# 2dgs important
 https://github.com/Anttwo/MILo
 https://www.youtube.com/watch?v=BUpDqXmSWBw
 2D Gaussian Ray-Tracing is the future! - jan2025
+
 
 
 https://github.com/hbb1/2d-gaussian-splatting
