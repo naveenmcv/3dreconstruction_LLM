@@ -1,6 +1,7 @@
 # 3dreconstruction_LLM
 
 # Gaustudio / Kiri 3.12 - released in oct 2024.    2DGS milo released in Sept 2025
+## Gaustudio used info from 2DGS and mip-splatting
 
 
 # REF
