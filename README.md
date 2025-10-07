@@ -15,6 +15,8 @@ MILo: Mesh-In-the-Loop Gaussian Splatting for Detailed and Efficient Surface Rec
 How to import 3DGS into Omniverse
 https://www.youtube.com/watch?v=TDN0_jrLhGs
 
+#2DGS Latest ( sept 2025)
+https://github.com/Anttwo/MILo
 
 # 2DGS - INSTEAD OF ELIPSOIDS use DISKS
 2DGS: 2D Gaussian Splatting for Geometrically Accurate Radiance Fields
@@ -26,7 +28,7 @@ https://github.com/Anttwo/MILo
 https://www.youtube.com/watch?v=BUpDqXmSWBw
 2D Gaussian Ray-Tracing is the future! - jan2025
 
-
+https://www.youtube.com/watch?v=rOBs2yyYaJM
 
 https://github.com/hbb1/2d-gaussian-splatting
 https://github.com/hugoycj/2.5d-gaussian-splatting?tab=readme-ov-file
