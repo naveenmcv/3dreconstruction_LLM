@@ -1,5 +1,8 @@
 # 3dreconstruction_LLM
 
+# Gaustudio / Kiri 3.12 - released in oct 2024.    2DGS milo released in Sept 2025
+
+
 # REF
 https://huggingface.co/papers/2311.04400
 https://x.com/_akhaliq/status/1722466519253242263
