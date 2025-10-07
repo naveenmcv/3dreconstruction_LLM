@@ -16,7 +16,7 @@ How to import 3DGS into Omniverse
 https://www.youtube.com/watch?v=TDN0_jrLhGs
 
 
-# 2DGS
+# 2DGS - INSTEAD OF ELIPSOIDS use DISKS
 2DGS: 2D Gaussian Splatting for Geometrically Accurate Radiance Fields
 https://surfsplatting.github.io/
 https://www.youtube.com/watch?v=oaHCtB6yiKU
