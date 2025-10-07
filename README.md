@@ -8,14 +8,15 @@ https://x.com/_akhaliq/status/1722466519253242263
 # comfyUI
 https://github.com/MrForExample/ComfyUI-3D-Pack
 
-# milo
-MILo: Mesh-In-the-Loop Gaussian Splatting for Detailed and Efficient Surface Reconstruction
+
 
 # 3dgs in omniverse
 How to import 3DGS into Omniverse
 https://www.youtube.com/watch?v=TDN0_jrLhGs
 
-#2DGS Latest ( sept 2025)
+# 2DGS Latest ( sept 2025)
+## milo
+MILo: Mesh-In-the-Loop Gaussian Splatting for Detailed and Efficient Surface Reconstruction
 https://github.com/Anttwo/MILo
 
 # 2DGS - INSTEAD OF ELIPSOIDS use DISKS
