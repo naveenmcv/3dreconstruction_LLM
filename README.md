@@ -1,5 +1,28 @@
 # 3dreconstruction_LLM
 
+# for SuGaR
+Matching RTX series
+RTX 20xx (Turing) → Works with CUDA 11.8 ✅
+RTX 30xx (Ampere) → Works with CUDA 11.8 ✅
+RTX 40xx (Ada Lovelace) → Supports CUDA 12.x, but CUDA 11.8 may partially work, not fully optimized.
+Conclusion:
+If you want stable, fully supported CUDA 11.8, you should use RTX 20xx or RTX 30xx.
+RTX 4000 series is better with CUDA 12.x.
+
+# for GauStudio 
+Cuda 11.3 ?
+
+
+
+
+
+
+
+
+
+
+
+
 # Gaustudio / Kiri 3.12 - released in oct 2024.    2DGS milo released in Sept 2025
 ## Gaustudio used info from 2DGS and mip-splatting
 
